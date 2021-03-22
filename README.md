@@ -41,8 +41,6 @@ npm run build
 ```
 **NB! Can be run directly from index.html file**
 
-It is also tested that after building you can run it straight from the index.html
-
 ### Lints and fixes files
 ```
 npm run lint
