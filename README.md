@@ -1,7 +1,7 @@
 # DEMO SLOT MACHINE
 
 ## Tech stack
-1. Vue.js 3 
+1. Vue 3
 2. Dart Sass
 3. Typescript
 
@@ -19,11 +19,11 @@
 - [x] each spin costs 1 coin
 - [x] spin "locks" other activities
 - [x] debug area created
-- [x] each reel can be controlled individually
-- [x] in order to debug to take effect boh position and symbol must be picked
+- [x] each reel can be controlled individually with debug controls
 
 ## Additional notes
-Although there is responsiveness it is not optimized for small screens.
+1. Responsiveness it is not optimized for small screens.
+2. Package lock is not included as target uri -s are not public repos.
 
 ## Project setup
 ```
@@ -39,6 +39,7 @@ npm run serve
 ```
 npm run build
 ```
+**NB! Can be run directly from index.html file**
 
 It is also tested that after building you can run it straight from the index.html
 
