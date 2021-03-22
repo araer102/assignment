@@ -1,4 +1,4 @@
-# DEMO SLOT MACHINE
+# Test Assignment
 
 ## Tech stack
 1. Vue 3
